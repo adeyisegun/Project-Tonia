@@ -22,14 +22,7 @@ num8 = 2
 quotient = num7 / num8
 print("Quotient:", quotient)
 
-# Modulo (Remainder)
-num9 = 9
-num10 = 5
-remainder = num9 % num10
-print("Remainder:", remainder)
-
-# Exponentiation
-base = 2
-exponent = 3
-result = base ** exponent
-print("Result:", result)
+# Square root
+num20 = 4
+sqrt_num = math.sqrt(num20)
+print("sqrt:", sqrt_num)
